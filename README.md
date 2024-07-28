@@ -16,9 +16,9 @@ You can view my personal website here: [ https://sanj213.github.io/Personal-Port
 
 ## Technologies Used
 
-- HTML/CSS
-- JavaScript
-- Responsive Web Design
+- ✅ HTML/CSS
+- ✅ JavaScript
+- ✅ Responsive Web Design
 - 
 ## Contact
 
