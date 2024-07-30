@@ -6,7 +6,7 @@ Welcome to my personal website repository! This site highlights my journey as a 
 
 ## Website Link
 
-You can view my personal website here: [ https://sanj213.github.io/Personal-Portfolio-Website/]( https://sanj213.github.io/Personal-Portfolio-Website/)
+You can view my personal website here: [ [(https://sanjanaa.pages.dev)](https://sanjanaa.pages.dev))
 
 ## Features
 
