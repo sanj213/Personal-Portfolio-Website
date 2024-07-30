@@ -6,7 +6,7 @@ Welcome to my personal website repository! This site highlights my journey as a 
 
 ## Website Link
 
-You can view my personal website here: [(https://sanjanaa.pages.dev)](https://sanjanaa.pages.dev)
+You can view my personal website here: [(https://sanjanaa.pages.dev)] https://sanjanaa.pages.dev
 
 ## Features
 
